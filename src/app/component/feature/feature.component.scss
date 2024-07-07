@@ -1,0 +1,22 @@
+.mainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    font-family: sans-serif;
+    height: 100%;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    //background-color: aquamarine;
+    font-family: sans-serif;
+
+}
+
+.btn{
+    position: relative;
+    left: 30px;
+}
